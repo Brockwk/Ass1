@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=H, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML</h1>
+    <h4>Introduction</h4>
+    <p>HTML is a standard markup language for Web pages</p>
+
+    <h1>HTML</h1>
+    <h4>Introduction</h4>
+    <p>HTML is a standard markup language for Web pages</p>
+
+    <h3>HTML Editor</h3>
+    <h6>Notepad or TextEdit</h6>
+    <p>Web Pages can be created and modifield by using profetional HTML editors.
+        However,for learning HTML we recommend a simple text editor like Notepad or TextEditor.
+
+    </p>
+    <h1>HTML</h1>
+    <h4>Introduction</h4>
+    <p>HTML is a standard markup language for Web pages</p>
+
+    <h3>HTML Editor</h3>
+    <h6>Notepad or Texteditor.</h6>
+    <p>web pages can be created and modified by using profetional HTML editor.
+        However,for learning HTML we recommend a single text editor like Notepad or TextEditor
+    </p>
+</body>
+</html>
