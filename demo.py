@@ -30,3 +30,9 @@ df.fillna('null', inplace=True)
 # Print the cleaned data
 print("Cleaned DataFrame:")
 print(df)
+
+
+
+
+
+
